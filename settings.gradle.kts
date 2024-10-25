@@ -19,6 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "QTA2"
+rootProject.name = "QTA_JJJ_10"
 include(":app")
  
